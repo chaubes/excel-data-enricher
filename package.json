@@ -1,0 +1,26 @@
+{
+  "name": "excel-data-enricher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaubes/excel-data-enricher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaubes/excel-data-enricher/issues"
+  },
+  "homepage": "https://github.com/chaubes/excel-data-enricher#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "json-as-xlsx": "^2.5.3",
+    "path": "^0.12.7",
+    "properties-reader": "^2.2.0"
+  }
+}
